@@ -1,6 +1,6 @@
 # MY Portfolio Website using Tailwind CSS + React
 <a href="https://github.com/JERMIDA/my-portfolio">  
-  <img src="https://github.com/JERMIDA/my-portfolio/blob/main/home-page.png" alt="Image 1" width="200"/>  
+  <img src="https://github.com/JERMIDA/my-portfolio/blob/main/home-page.png" alt="Image 1" width="300"/>  
 </a>  
 <a href="https://github.com/JERMIDA/my-portfolio">  
   <img src="https://github.com/JERMIDA/my-portfolio/blob/main/about-page.png" alt="Image 2" width="200"/>  

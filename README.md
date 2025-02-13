@@ -1,13 +1,13 @@
 # MY Portfolio Website using Tailwind CSS + React
 <a href="https://github.com/JERMIDA/my-portfolio">  
-  <img src="https://github.com/JERMIDA/my-portfolio/blob/main/home-page.png" alt="Image 1" width="350"/>  
+  <img src="https://github.com/JERMIDA/my-portfolio/blob/main/home-page.png" alt="Image 1" width="325"/>  
 </a>  
 <a href="https://github.com/JERMIDA/my-portfolio">  
-  <img src="https://github.com/JERMIDA/my-portfolio/blob/main/about-page.png" alt="Image 2" width="300"/>  
+  <img src="https://github.com/JERMIDA/my-portfolio/blob/main/about-page.png" alt="Image 2" width="250"/>  
 </a>  
 <a href="https://github.com/JERMIDA/my-portfolio">  
-  <img src="https://github.com/JERMIDA/my-portfolio/blob/main/servProj.png" alt="Image 3" width="350"/>  
+  <img src="https://github.com/JERMIDA/my-portfolio/blob/main/servProj.png" alt="Image 3" width="325"/>  
 </a>  
 <a href="https://github.com/JERMIDA/my-portfolio">  
-  <img src="https://github.com/JERMIDA/my-portfolio/blob/main/contact.png" alt="Image 4" width="350"/>  
+  <img src="https://github.com/JERMIDA/my-portfolio/blob/main/contact.png" alt="Image 4" width="325"/>  
 </a>

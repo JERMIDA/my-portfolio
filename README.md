@@ -1,13 +1,6 @@
-# MY Portfolio Website using Tailwind CSS + React
-<a href="https://github.com/JERMIDA/my-portfolio">  
-  <img src="https://github.com/JERMIDA/my-portfolio/blob/main/home-page.png" alt="Image 1" width="325"/>  
-</a>  
-<a href="https://github.com/JERMIDA/my-portfolio">  
-  <img src="https://github.com/JERMIDA/my-portfolio/blob/main/about-page.png" alt="Image 2" width="250"/>  
-</a>  
-<a href="https://github.com/JERMIDA/my-portfolio">  
-  <img src="https://github.com/JERMIDA/my-portfolio/blob/main/servProj.png" alt="Image 3" width="325"/>  
-</a>  
-<a href="https://github.com/JERMIDA/my-portfolio">  
-  <img src="https://github.com/JERMIDA/my-portfolio/blob/main/contact.png" alt="Image 4" width="325"/>  
-</a>
+# My Portfolio Website using Tailwind CSS + React
+[![home-page](https://github.com/JERMIDA/my-portfolio/blob/main/home-page.png)](https://github.com/JERMIDA/my-portfolio)  
+[![about-page ](https://github.com/JERMIDA/my-portfolio/blob/main/about-page.png)](https://github.com/JERMIDA/my-portfolio)  
+[![project-page](https://github.com/JERMIDA/my-portfolio/blob/main/servProj.png)](https://github.com/JERMIDA/my-portfolio)  
+[![contact-page](https://github.com/JERMIDA/my-portfolio/blob/main/contact.png)](https://github.com/JERMIDA/my-portfolio)
+

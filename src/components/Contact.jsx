@@ -51,8 +51,7 @@ const Contact = () => {
                     placeholder='Enter You Message'/>
                 </div>
                   <a href="jeremydamena98@gmail.com">
-                     <button className='bg-gradient-to-r from-green-400 to-blue-500 text-white hidden md:inline
-                     transform transition-transform duration-300 hover:scale-105 px-8 py-2 rounded-full'>Send</button>
+                     <button type="submit" className='bg-gradient-to-r from-green-400 to-blue-500 text-white transform transition-transform duration-300 hover:scale-105 px-8 py-2 rounded-full w-full'> Send</button>
                   </a>
             </form>
           </div>

@@ -7,21 +7,18 @@ const projects = [
   {
     id: 1,
     name: "Blog web-App",
-    // technologies: "MERN Stack",
     image:djBlogs,
     github: "https://github.com/JERMIDA/simple-blog-with-react-",
   },
   {
     id: 2,
     name: "Clearance MS",
-    // technologies: "MERN Stack",
     image:clearanceMSImage,
     github: "",
   },
   {
     id: 3,
     name: "Employee MS",
-    // technologies: "MERN Stack",
     image: employeeMSImage,
     github: "https://github.com/JERMIDA",
   },

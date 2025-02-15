@@ -1,4 +1,6 @@
-# Personal Portfolio Website using React + Tailwind CSS
 
-
-![personal portfolio website](https://github.com/user-attachments/assets/7751f7e8-76f1-4010-892c-525844d989cf)
+# My Portfolio Website using Tailwind CSS + React
+[![home-page](https://github.com/JERMIDA/my-portfolio/blob/main/home-page.png)](https://github.com/JERMIDA/my-portfolio)  
+[![about-page ](https://github.com/JERMIDA/my-portfolio/blob/main/about-page.png)](https://github.com/JERMIDA/my-portfolio)  
+[![project-page](https://github.com/JERMIDA/my-portfolio/blob/main/servProj.png)](https://github.com/JERMIDA/my-portfolio)  
+[![contact-page](https://github.com/JERMIDA/my-portfolio/blob/main/contact.png)](https://github.com/JERMIDA/my-portfolio)
